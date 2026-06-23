@@ -1,0 +1,15 @@
+env/
+*pyc
+*pyo
+*pyd
+
+*.sqlite3
+.db
+
+.env
+.env.local
+local_settings.py
+media/
+staticfiles/
+
+
